@@ -1,0 +1,9 @@
+D:\programs\C#\RPS\bin\Debug\RPS.exe.config
+D:\programs\C#\RPS\bin\Debug\RPS.exe
+D:\programs\C#\RPS\bin\Debug\RPS.pdb
+D:\programs\C#\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+D:\programs\C#\RPS\obj\Debug\RPS.Properties.Resources.resources
+D:\programs\C#\RPS\obj\Debug\RPS.csproj.GenerateResource.Cache
+D:\programs\C#\RPS\obj\Debug\RPS.exe
+D:\programs\C#\RPS\obj\Debug\RPS.pdb
+D:\programs\C#\RPS\obj\Debug\RPS.frmRPS.resources

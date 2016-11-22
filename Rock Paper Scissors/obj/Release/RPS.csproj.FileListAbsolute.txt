@@ -1,0 +1,12 @@
+D:\programs\C#\RPS\bin\Release\RPS.exe.config
+D:\programs\C#\RPS\bin\Release\RPS.exe
+D:\programs\C#\RPS\bin\Release\RPS.pdb
+D:\programs\C#\RPS\obj\Release\RPS.frmRPS.resources
+D:\programs\C#\RPS\obj\Release\RPS.Properties.Resources.resources
+D:\programs\C#\RPS\obj\Release\RPS.csproj.GenerateResource.Cache
+D:\programs\C#\RPS\obj\Release\RPS.exe
+D:\programs\C#\RPS\obj\Release\RPS.pdb
+D:\programs\C#\RPS\obj\Release\RPS.csprojResolveAssemblyReference.cache
+D:\programs\C#\Rock Paper Scissors\bin\Release\RPS.exe.config
+D:\programs\C#\Rock Paper Scissors\obj\Release\RPS.exe
+D:\programs\C#\Rock Paper Scissors\obj\Release\RPS.pdb
